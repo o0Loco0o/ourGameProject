@@ -4,7 +4,7 @@ using System.Collections;
 public class playerMovementControl : MonoBehaviour {
 
 	public float maxSpeed = 6.0F;
-	bool facingRight = false;
+	bool facingRight = true;
 
 	void Start (){
 	}
