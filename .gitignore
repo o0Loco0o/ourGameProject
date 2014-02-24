@@ -229,7 +229,7 @@ pip-log.txt
 #*.Trashes
  
 # All platforms:
-Library
+#Library
 Temp
 *.csproj
 *.pidb
@@ -238,3 +238,23 @@ Temp
 *.userprefs
 *.exe
 Level_001_Data
+Library/AnnotationManager
+Library/AssetImportState
+Library/AssetServerCacheV3
+Library/AssetVersioning.db
+Library/BuildPlayer.prefs
+Library/BuildSettings.asset
+Library/CurrentLayout.dwlt
+Library/EditorUserBuildSettings.asset
+Library/EditorUserSettings.asset
+Library/FailedAssetImports.txt
+Library/InspectorExpandedItems.asset
+Library/MonoManager.asset
+Library/ProjectSettings.asset
+Library/ScriptAssemblies/Assembly-CSharp.dll
+Library/ScriptAssemblies/Assembly-CSharp.dll.mdb
+Library/ScriptAssemblies/CompilationCompleted.txt
+Library/ScriptMapper
+Library/assetDatabase3
+Library/expandedItems
+Library/guidmapper
