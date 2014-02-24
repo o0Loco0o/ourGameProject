@@ -29,7 +29,6 @@ public class playerAnimationControl : MonoBehaviour {
 				else if(h < 0 && facingRight)
 					Flip ();
 	
-
 		animator.SetBool("Running", running);
 	}
 

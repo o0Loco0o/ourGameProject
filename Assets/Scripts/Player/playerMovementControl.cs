@@ -4,7 +4,6 @@ using System.Collections;
 public class playerMovementControl : MonoBehaviour {
 
 	public float maxSpeed = 2.0F;
-	bool facingRight = true;
 
 	void Start (){
 	}
@@ -12,9 +11,7 @@ public class playerMovementControl : MonoBehaviour {
 	void FixedUpdate() {
 
 		float move = Input.GetAxis ("Horizontal");
-
 		rigidbody2D.velocity = new Vector2(move * maxSpeed, rigidbody2D.velocity.y);
-
 
 	}
 
