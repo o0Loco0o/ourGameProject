@@ -229,12 +229,12 @@ pip-log.txt
 #*.Trashes
  
 # All platforms:
-#Library
+Library
 Temp
-#*.csproj
-#*.pidb
-#*.unityproj
-#*.sln
-#*.userprefs
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
 *.exe
 Level_001_Data
